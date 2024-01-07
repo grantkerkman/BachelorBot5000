@@ -1,0 +1,609 @@
+,occupation
+0,Event Planner
+1,Miami Heat Dancer
+2,Financial Management Consultant
+3,Nanny
+4,Graduate Student
+5,Attorney
+6,Actress
+7,Commercial Real Estate Agent
+8,Special Ed. Teacher
+9,Production Coordinator
+10,Hooters Waitress
+11,Actress
+12,Power Tool Sales Rep.
+13,Photographer
+14,Graduate Student
+15,Business Development Director
+16,Neuropsychologist
+17,Doctor
+18,Bar Manager
+19,Retail Manager
+20,Advertising Executive
+21,Attorney
+22,Insurance Representative
+23,6th Grade Teacher
+24,Technology Specialist
+25,Teacher
+26,Publicist
+27,Marketing manager
+28,Student
+29,Realtor
+30,Teacher
+31,Attorney
+32,Ultrasound technician
+33,Event planner
+34,Realtor
+35,Interior designer
+36,Journalist
+37,Model
+38,Hotel concierge
+39,Beer chemist
+40,Attorney
+41,Restaurateur
+43,Physician
+44,Registered nurse
+45,Assistant buyer
+46,Dolphin trainer
+47,Attorney
+48,Broadcast marketer
+49,Policy advisor
+50,Make-up artist
+51,Realtor
+52,Social Worker
+53,Assistant
+54,Graphic Designer
+55,Teacher
+56,Project Manager
+57,Medical student
+58,Boutique owner
+59,Sales Manager
+60,Organ donor coordinator
+61,Financial analyst
+62,Financial analyst
+63,Sorority recruiter
+64,Attorney
+65,Boutique manager
+66,Medical equipment sales rep
+67,Radio sales
+68,Waitress
+69,Former Miss Illinois
+70,Attorney
+71,Executive coordinator
+72,Health care manager
+73,Hedge fund analyst
+74,Attorney
+75,Student
+76,Real estate sales/development
+77,Realtor
+78,Phoenix Suns Cheerleader
+79,Realtor
+80,Internet marketing executive
+81,Registered nurse
+82,Acupuncturist
+83,Account manager
+84,Executive assistant
+85,Boutique sales worker
+86,Model
+87,Bar manager
+88,Esthetician
+89,Publishing sales executive
+90,Nanny
+91,Realtor
+92,News anchor
+93,Law student
+94,Realtor
+95,Biology teacher
+96,Event planner
+97,Graduate student
+98,Law student
+99,Account representative
+100,Emergency room nurse
+101,Project analyst
+102,Actress
+103,Pharmaceutical sales rep.
+104,Account Executive
+105,Photographer
+106,Fashion designer
+107,Advertising coordinator
+108,Singer-songwriter
+109,Medical sales representative
+110,Children's book author
+111,Nanny
+112,Vendor
+113,Personal trainer
+114,Church marketing rep.
+115,Event planner
+116,Administrative assistant
+117,Biology student
+118,Law student
+119,Attorney and former White House aide
+120,Make-up artist
+121,Youth minister
+122,Interior designer
+123,Attorney
+124,Graduate student
+125,Cocktail waitress
+126,Real estate marketing rep.
+127,Sales Representative
+128,Department Store Buyer
+129,Interior Designer
+130,Flight Attendant
+131,Medical Marketing Representative
+132,Teacher
+133,Lacrosse Coach
+134,Dental Hygienist
+135,Administrative Assistant
+136,Account Executive
+137,Account Executive
+138,Human Resources Recruiter
+139,Medical Student
+140,Teacher
+141,Public Relations Associate
+142,Flight Attendant
+143,Medical Sales Representative
+144,Casino Marketing Representative
+145,Wedding Coordinator
+146,Teacher
+147,Menswear Buyer
+148,Jewelry Designer
+149,Account Executive
+150,Charity Accountant
+151,Nurse Practitioner
+152,Marketing Representative
+153,College Admissions
+154,Swimsuit Model
+155,Advertising Account Manager
+156,Wardrobe Consultant
+157,Account Manager
+158,Cosmetic Sales Manager
+159,Corporate Flight Attendant
+160,Hair Stylist
+161,Nanny
+162,Homemaker
+163,Office Manager
+164,Teacher
+165,Restaurant Manager
+166,Model/Make-Up Artist
+167,Entrepreneur
+168,Spokesmodel
+169,Mortgage Loan Officer
+170,"Captain, Air National Guard"
+171,Fit Model
+172,NBA Dancer
+173,Waitress
+174,Commercial Pilot
+175,Dance Teacher
+176,Medical Technician
+177,Children's Hospital Event Planner
+178,Executive Assistant
+179,Dental Student
+180,Funeral Director
+181,Hairstylist
+182,Food Writer
+183,Artist
+184,Apparel Merchant
+185,Marketing Coordinator
+186,Sports Publicist
+187,Nanny
+188,First Grade Teacher
+189,Fashion Marketer
+190,Bartender
+191,Marketing Coordinator
+192,Real Estate Broker
+193,Model
+194,Radio City Rockette
+195,Waitress
+196,Manscaper
+197,Paralegal
+198,Attorney
+199,Operations Manager
+200,Sales Director
+201,Insurance Agent
+202,High School Teacher
+203,Sales Consultant
+204,Esthetician
+205,Nanny
+206,Musical Theatre Performer
+207,Model
+208,Business Development Manager
+209,Dental Hygienist
+210,Administrative Assistant
+211,PhD Student
+212,Fashion Sales Representative
+213,Registered Nurse
+214,Trading Clerk
+215,VIP Cocktail Waitress
+216,Accountant
+217,Personal Trainer
+218,Dental Consultant
+219,Advertising Account Manager
+220,Law Student
+221,Advertising Account Manager
+222,Medical Sales Representative
+223,Blogger
+224,Financial Advisor
+225,Labor and Delivery Nurse
+226,Critical Care Nurse
+227,Student
+228,Nonprofit Director
+229,Pharmaceutical Sales Representative
+230,Internet Entrepreneur
+231,Actress
+232,Graphic Designer
+233,Substitute Teacher
+234,Personal Organizer
+235,Bridal Stylist
+236,Political Consultant
+237,Leasing Consultant
+238,Commercial Casting Associate
+239,Real Estate Dealer
+240,Advertising Executive
+241,Oil Field Account Manager
+242,Cosmetics Consultant
+243,Fit Model
+244,Poker Dealer
+245,Model
+246,Health Club Manager
+247,Administrative Assistant
+248,Community Organizer
+249,Salon Owner
+250,Yoga Instructor
+251,Fashion Model
+252,Hair Stylist
+253,Cruise Ship Entertainer
+254,Entrepreneur
+255,Graduate Student
+256,Journalist
+257,Jumbotron Operator
+258,Pediatric Nurse
+259,Hairstylist
+260,Assistant District Attorney
+261,Real Estate Agent
+262,Science Educator
+263,Opera Singer
+264,Medical Sales Rep
+265,Former NBA Dancer
+266,Nanny
+267,Psychiatric Nurse
+268,Dog Lover
+269,First Grade Teacher
+270,Music Composer
+271,Marketing Manager
+272,Free Spirit
+273,Local News Reporter
+274,Account Manager
+275,Legal Assistant
+276,Communications Director
+277,Massage Therapist
+278,Grade School Teacher
+279,Police Support Specialist
+280,Interior Designer
+281,Nursing Home Owner
+282,Mineral Coordinator
+283,Personal Banker
+284,Personal Trainer
+285,School Psychologist
+286,College Student
+287,Executive Recruiter
+288,Registered Nurse
+289,Retail Manager
+290,Flight Attendant
+291,Assistant Financial Advisor
+292,Marriage Therapy Trainee
+293,Airline Supervisor
+294,Graphic Artist
+295,Radio Sales
+296,Publications Quality Control
+297,Flight Attendant
+298,Strategic Planning Analyst
+299,Attorney
+300,Psychologist
+301,Actress
+302,3rd Grade Teacher
+303,Radiological Technologist
+304,Interior Designer
+305,College Student
+306,Paralegal
+307,Former NBA Cheerleader
+308,1st Grade Teacher
+309,Communications Specialist
+310,Student
+311,General Contractor
+312,Architect Designer
+313,Model
+314,Pharmaceutical Salesperson
+315,Prosthetic Technician
+316,Swim Instructor
+317,Attorney
+318,Professional Cheerleader
+319,LASIK Eye & Skin Center Manager
+320,Consultant
+321,Model
+322,Executive Assistant
+323,Massage Therapist
+324,Hairstylist
+325,Retail Manager
+326,Student
+327,Professional Soccer Player
+328,Account Manager
+329,Account Manager
+330,Retail Manager
+331,Bank Representative
+332,Student
+333,Singer
+334,Fashion PR Manager
+335,Flight Attendant
+336,Real Estate Developer
+337,Software Sales Representative
+338,Esthetician
+339,Chiropractic Assistant
+340,Waitress
+341,Kindergarten Teacher
+342,Former News Anchor
+343,Event Planner
+344,Small Business Owner
+345,War Veteran
+346,Bartender
+347,Unemployed
+348,Waitress
+349,Bartender
+350,Property Manager
+351,Real Estate Agent
+352,Dentist
+353,Gerontologist
+354,Attorney
+355,Fashion Buyer
+356,Nutritional Therapist
+357,Graphic Designer
+358,Accountant
+359,Account Executive
+360,Math Teacher
+361,Cowgirl
+362,Chicken Enthusiast
+363,Special Education Teacher
+364,Fashion Boutique Owner
+365,Attorney
+366,Business Owner
+367,Dental Hygienist
+368,Neonatal Nurse
+369,Small Business Owner
+370,Pilates Instructor
+371,Pro Basketball Dancer
+372,Aspiring Dolphin Trainer
+373,Chef
+374,Registered Nurse
+375,Mental Health Counselor
+376,Plastic Surgery Office Manager
+377,Grade School Teacher
+378,Travel Nurse
+379,Wedding Videographer
+380,Restaurant Server
+381,Marketing Manager
+382,Photographer
+383,Digital Marketing Manager
+384,Doula
+385,Model
+386,Surgical Unit Nurse
+387,Sales Manager
+388,Flight Attendant
+389,Law School Graduate
+390,Food Truck Owner
+391,Apparel Sales Representative
+392,Account Manager
+393,Publicist
+394,Technology Salesperson
+395,Creative Director
+396,Physical Therapist
+397,Nanny
+398,Commercial Real Estate Agent
+399,Research Coordinator
+400,Real Estate Executive Assistant
+401,Social Media Manager
+402,Fitness Coach
+403,Real Estate Agent
+404,Photographer
+405,Restaurant Owner
+406,Tech Recruiter
+407,Realtor
+409,Executive Assistant
+410,Event Designer
+411,Social Media Manager
+412,Graphic Designer
+413,Executive Recruiter
+414,Server
+415,Personal Stylist
+416,Business Owner
+417,Sports Reporter
+418,Marketing Manager
+419,Television Host
+420,Recent Master's Graduate
+421,Orthopedic Nurse
+422,Marketing Associate
+423,Model
+424,Foster Parent Recruiter
+425,Medical Sales Rep
+426,Professional Clothier
+427,Attorney
+428,Event Planner
+429,Fashion Blogger
+430,Retail Marketing Manager
+431,House Flipper
+432,Nurse
+433,Marketing Coordinator
+434,Administrative Assistant
+435,Home Care Coordinator
+436,Nanny
+437,Realtor
+438,Orthodontist Assistant
+440,Esthetician
+441,Client Relations Manager
+442,Medical Radiographer
+443,Cosmetologist
+444,Marketing Executive
+445,Business Development Rep
+446,Cattle Rancher
+447,Flight Attendant
+448,Media Buyer
+449,Nursing Student
+450,Pro NBA Dancer
+451,Entertainment Sales Associate
+452,Patient Care Coordinator
+453,Flight Attendant
+454,Graphic Designer
+455,Teacher
+456,Communications Manager
+457,Publicist
+458,Graduate Student
+459,Social Media Marketer
+460,Fashion Entrepreneur
+461,Client Financial Manager
+462,Runway Model
+463,Flight Attendant
+464,Bank Marketing Manager
+465,Model
+466,Pharmacist
+467,Dancer/Choreographer
+468,Hairstylist
+469,Former Miss Universe Puerto Rico
+470,Corporate Attorney
+471,Marketing Director
+472,Queen
+473,Copywriter
+474,Hostess
+475,Healthcare Advocate
+476,ICU Nurse
+477,Broadcast Journalist
+478,Photographer
+479,Health Food Developer
+480,Attorney
+481,Event Coordinator
+482,Marketing Specialist
+483,Professional Ballerina
+484,Nursing Student
+485,Journalist
+486,Social Worker
+487,Marketing Manager
+488,Realtor
+489,Airline Recruiter
+490,IT Consultant
+491,Wedding Videographer
+492,ICU Nurse
+493,Flight Instructor
+495,Elementary School Teacher
+496,Surgical Unit Nurse
+497,Wealth Management Advisor
+498,Bartender
+499,Marketing Manager
+500,Entrepreneur
+501,Human Resources Specialist
+502,Former Olympian
+503,Recruiter
+504,Architectural Historian
+505,Industrial Sales Representative
+506,Yoga Instructor
+507,Real Estate Advisor
+508,Physician
+509,Personal Trainer
+510,Sales Manager
+511,Real Estate Agent
+512,Human Resources Specialist
+513,Executive Recruiter
+514,Law Student
+515,Pediatric Nurse
+516,Bar Mitzvah Dancer
+517,Social Media Director
+518,Neonatal Nurse
+519,Registered Nurse
+520,Occupational Therapist
+521,Spray Tanner
+522,Travel Nurse
+523,Senior Account Executive
+524,Marketing Executive
+525,Child and Family Therapist
+526,Registered Nurse
+527,Rodeo Racer
+528,Medical Sales Representative
+529,Healthcare Strategist
+530,E-Commerce Coordinator
+531,Postpartum Nurse
+532,Nonprofit Case Manager
+533,Marketing Manager
+534,Neonatal Nurse
+535,Content Marketing Manager
+536,Content Creator
+537,Entrepreneur
+538,Executive Recruiter
+539,Professional Dancer
+540,Hospitality Manager
+541,Professional Makeup Artist
+542,Nursing Student
+543,Corporate Recruiter
+544,Insurance Marketer
+545,Financial Advisor
+546,Patient Care Technician
+547,Stylist
+548,Project Manager
+549,Restaurant Marketer
+550,Nanny
+551,Business Owner
+552,Fertility Nurse
+553,Special Education Teacher
+554,Fourth Grade Teacher
+555,Sport Fishing Enthusiast
+556,Executive Assistant
+557,Fashion Designer
+558,Cadaver Tissue Saleswoman
+559,Former NFL Cheerleader
+560,Real Estate Agent
+561,Wedding Cake Baker
+562,Make-Up Artist
+563,Dental Assistant
+564,Yoga Instructor
+565,Guidance Counselor
+566,High School Soccer Coach
+567,Dance Instructor
+568,Esthetician
+569,Student
+570,News Producer
+571,Cosmetics Developer
+572,Cruise Ship Singer
+573,WWE Diva-in-Training
+574,Waitress
+575,Plus-Size Model
+576,Chiropractic Assistant
+577,Hair Stylist
+578,Journalist
+579,Bartender
+580,Ballet Teacher
+581,Flight Attendant
+582,Speech Pathologist
+583,Content Creator
+584,Phlebotomist
+585,Miss North Carolina USA 2018
+586,Dental Hygienist
+587,Assistant Program Manager
+588,Miss Alabama USA 2018
+589,Medical Sales Representative
+590,Interior Designer
+591,NBA Dancer
+592,Social Media Coordinator
+593,IT Risk Consultant
+594,Makeup Artist
+595,Caterer
+596,Wardrobe Stylist
+597,Model
+598,DJ
+599,Sales Account Manager
+600,Realtor
+601,Dog Rescuer
+602,Marketing Salesperson
+603,Financial Associate
+604,Recruiter
+605,Sloth
+606,Broadcast Journalist
+607,Cinderella
+608,Social Worker
+609,Accountant
+610,Nurse
+611,Business Development Associate
