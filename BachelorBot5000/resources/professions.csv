@@ -1,0 +1,609 @@
+occupation,job_category
+Accountant,Business
+Accountant,Business
+Accountant,Business
+Administrative assistant,Business
+Administrative Assistant,Business
+Administrative Assistant,Business
+Administrative Assistant,Business
+Administrative Assistant,Business
+Airline Recruiter,Business
+Airline Supervisor,Business
+Assistant,Business
+Assistant Financial Advisor,Business
+Assistant Program Manager,Business
+Bank Marketing Manager,Business
+Bank Representative,Business
+Boutique owner,Business
+Business Owner,Business
+Business Owner,Business
+Business Owner,Business
+Charity Accountant,Business
+Client Financial Manager,Business
+Community Organizer,Business
+Corporate Recruiter,Business
+E-Commerce Coordinator,Business
+Entrepreneur,Business
+Entrepreneur,Business
+Entrepreneur,Business
+Entrepreneur,Business
+Executive assistant,Business
+Executive Assistant,Business
+Executive Assistant,Business
+Executive Assistant,Business
+Executive Assistant,Business
+Executive coordinator,Business
+Executive Recruiter,Business
+Executive Recruiter,Business
+Executive Recruiter,Business
+Executive Recruiter,Business
+Fashion Boutique Owner,Business
+Financial Advisor,Business
+Financial Advisor,Business
+Financial analyst,Business
+Financial analyst,Business
+Financial Associate,Business
+Financial Management Consultant,Business
+Food Truck Owner,Business
+Funeral Director,Business
+Hedge fund analyst,Business
+Human Resources Recruiter,Business
+Human Resources Specialist,Business
+Human Resources Specialist,Business
+Internet Entrepreneur,Business
+Mortgage Loan Officer,Business
+Nonprofit Case Manager,Business
+Nonprofit Director,Business
+Office Manager,Business
+Operations Manager,Business
+Organ donor coordinator,Business
+Personal Banker,Business
+Plastic Surgery Office Manager,Business
+Policy advisor,Business
+Political Consultant,Business
+Project analyst,Business
+Project Manager,Business
+Project Manager,Business
+Property Manager,Business
+Publications Quality Control,Business
+Publishing sales executive,Business
+Recruiter,Business
+Recruiter,Business
+Retail Manager,Business
+Retail Manager,Business
+Retail Manager,Business
+Retail Manager,Business
+Small Business Owner,Business
+Small Business Owner,Business
+Strategic Planning Analyst,Business
+Tech Recruiter,Business
+Trading Clerk,Business
+Wealth Management Advisor,Business
+Architect Designer,Business
+Beer chemist,Business
+Commercial Pilot,Business
+Flight Instructor,Business
+Gerontologist,Business
+IT Consultant,Business
+IT Risk Consultant,Business
+Mineral Coordinator,Business
+Technology Specialist,Business
+1st Grade Teacher,Education
+3rd Grade Teacher,Education
+6th Grade Teacher,Education
+Ballet Teacher,Education
+Biology teacher,Education
+College Admissions,Education
+Dance Instructor,Education
+Dance Teacher,Education
+Elementary School Teacher,Education
+First Grade Teacher,Education
+First Grade Teacher,Education
+Foster Parent Recruiter,Education
+Fourth Grade Teacher,Education
+Grade School Teacher,Education
+Grade School Teacher,Education
+Guidance Counselor,Education
+High School Soccer Coach,Education
+High School Teacher,Education
+Kindergarten Teacher,Education
+Lacrosse Coach,Education
+Math Teacher,Education
+Mental Health Counselor,Education
+School Psychologist,Education
+Science Educator,Education
+Social Worker,Education
+Social Worker,Education
+Social Worker,Education
+Special Ed. Teacher,Education
+Special Education Teacher,Education
+Special Education Teacher,Education
+Speech Pathologist,Education
+Substitute Teacher,Education
+Teacher,Education
+Teacher,Education
+Teacher,Education
+Teacher,Education
+Teacher,Education
+Teacher,Education
+Teacher,Education
+Teacher,Education
+Youth minister,Education
+Creative Director,Entertainment
+Fashion Buyer,Entertainment
+Fashion designer,Entertainment
+Fashion Designer,Entertainment
+Fashion Entrepreneur,Entertainment
+Fashion Marketer,Entertainment
+Fashion PR Manager,Entertainment
+Actress,Entertainment
+Actress,Entertainment
+Actress,Entertainment
+Actress,Entertainment
+Actress,Entertainment
+Artist,Entertainment
+Bar Mitzvah Dancer,Entertainment
+Blogger,Entertainment
+Broadcast Journalist,Entertainment
+Broadcast Journalist,Entertainment
+Children's book author,Entertainment
+Commercial Casting Associate,Entertainment
+Content Creator,Entertainment
+Content Creator,Entertainment
+Content Marketing Manager,Entertainment
+Copywriter,Entertainment
+Cruise Ship Entertainer,Entertainment
+Cruise Ship Singer,Entertainment
+Dancer/Choreographer,Entertainment
+DJ,Entertainment
+Fashion Blogger,Entertainment
+Fashion Model,Entertainment
+Fit Model,Entertainment
+Fit Model,Entertainment
+Food Writer,Entertainment
+Former Miss Illinois,Entertainment
+Former Miss Universe Puerto Rico,Entertainment
+Former NBA Cheerleader,Entertainment
+Former NBA Dancer,Entertainment
+Former News Anchor,Entertainment
+Former NFL Cheerleader,Entertainment
+Former Olympian,Entertainment
+Graphic Artist,Entertainment
+Graphic Designer,Entertainment
+Graphic Designer,Entertainment
+Graphic Designer,Entertainment
+Graphic Designer,Entertainment
+Graphic Designer,Entertainment
+Interior designer,Entertainment
+Interior designer,Entertainment
+Interior Designer,Entertainment
+Interior Designer,Entertainment
+Interior Designer,Entertainment
+Interior Designer,Entertainment
+Jewelry Designer,Entertainment
+Journalist,Entertainment
+Journalist,Entertainment
+Journalist,Entertainment
+Journalist,Entertainment
+Local News Reporter,Entertainment
+Miami Heat Dancer,Entertainment
+Music Composer,Entertainment
+Musical Theatre Performer,Entertainment
+NBA Dancer,Entertainment
+NBA Dancer,Entertainment
+News anchor,Entertainment
+News Producer,Entertainment
+Opera Singer,Entertainment
+Phoenix Suns Cheerleader,Entertainment
+Photographer,Entertainment
+Photographer,Entertainment
+Photographer,Entertainment
+Photographer,Entertainment
+Photographer,Entertainment
+Pro Basketball Dancer,Entertainment
+Pro NBA Dancer,Entertainment
+Production Coordinator,Entertainment
+Professional Ballerina,Entertainment
+Professional Cheerleader,Entertainment
+Professional Dancer,Entertainment
+Publicist,Entertainment
+Publicist,Entertainment
+Publicist,Entertainment
+Radio City Rockette,Entertainment
+Singer,Entertainment
+Singer-songwriter,Entertainment
+Social Media Coordinator,Entertainment
+Social Media Director,Entertainment
+Social Media Manager,Entertainment
+Social Media Manager,Entertainment
+Social Media Marketer,Entertainment
+Sports Publicist,Entertainment
+Sports Reporter,Entertainment
+Television Host,Entertainment
+WWE Diva-in-Training,Entertainment
+Miss Alabama USA 2018,Entertainment
+Miss North Carolina USA 2018,Entertainment
+Model,Entertainment
+Model,Entertainment
+Model,Entertainment
+Model,Entertainment
+Model,Entertainment
+Model,Entertainment
+Model,Entertainment
+Model,Entertainment
+Model,Entertainment
+Model,Entertainment
+Model,Entertainment
+Plus-Size Model,Entertainment
+Runway Model,Entertainment
+Spokesmodel,Entertainment
+Swimsuit Model,Entertainment
+Corporate Flight Attendant,Service
+Flight Attendant,Service
+Flight Attendant,Service
+Flight Attendant,Service
+Flight Attendant,Service
+Flight Attendant,Service
+Flight Attendant,Service
+Flight Attendant,Service
+Flight Attendant,Service
+Flight Attendant,Service
+Flight Attendant,Service
+Fitness Coach,Health
+Acupuncturist,Health
+Child and Family Therapist,Health
+Chiropractic Assistant,Health
+Chiropractic Assistant,Health
+Critical Care Nurse,Health
+Dental Assistant,Health
+Dental Consultant,Health
+Dental Hygienist,Health
+Dental Hygienist,Health
+Dental Hygienist,Health
+Dental Hygienist,Health
+Dentist,Health
+Doctor,Health
+Doula,Health
+Emergency room nurse,Health
+Fertility Nurse,Health
+Health care manager,Health
+Health Club Manager,Health
+Health Food Developer,Health
+Healthcare Advocate,Health
+Healthcare Strategist,Health
+Home Care Coordinator,Health
+ICU Nurse,Health
+ICU Nurse,Health
+Labor and Delivery Nurse,Health
+LASIK Eye & Skin Center Manager,Health
+Medical Radiographer,Health
+Medical student,Health
+Medical Student,Health
+Medical Technician,Health
+Neonatal Nurse,Health
+Neonatal Nurse,Health
+Neonatal Nurse,Health
+Neuropsychologist,Health
+Nurse,Health
+Nurse,Health
+Nurse Practitioner,Health
+Nursing Home Owner,Health
+Nursing Student,Health
+Nursing Student,Health
+Nursing Student,Health
+Nutritional Therapist,Health
+Occupational Therapist,Health
+Orthodontist Assistant,Health
+Orthopedic Nurse,Health
+Patient Care Coordinator,Health
+Patient Care Technician,Health
+Pediatric Nurse,Health
+Pediatric Nurse,Health
+Personal trainer,Health
+Personal Trainer,Health
+Personal Trainer,Health
+Personal Trainer,Health
+Pharmacist,Health
+Physical Therapist,Health
+Physician,Health
+Physician,Health
+Pilates Instructor,Health
+Postpartum Nurse,Health
+Professional Soccer Player,Health
+Prosthetic Technician,Health
+Psychiatric Nurse,Health
+Psychologist,Health
+Radiological Technologist,Health
+Registered nurse,Health
+Registered nurse,Health
+Registered Nurse,Health
+Registered Nurse,Health
+Registered Nurse,Health
+Registered Nurse,Health
+Registered Nurse,Health
+Research Coordinator,Health
+Surgical Unit Nurse,Health
+Surgical Unit Nurse,Health
+Swim Instructor,Health
+Travel Nurse,Health
+Travel Nurse,Health
+Ultrasound technician,Health
+Yoga Instructor,Health
+Yoga Instructor,Health
+Yoga Instructor,Health
+Cattle Rancher,Service
+Cowgirl,Service
+General Contractor,Service
+House Flipper,Service
+Jumbotron Operator,Service
+Rodeo Racer,Service
+Sport Fishing Enthusiast,Service
+Spray Tanner,Service
+Assistant District Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney,Law
+Attorney and former White House aide,Law
+Corporate Attorney,Law
+Law School Graduate,Law
+Law student,Law
+Law student,Law
+Law student,Law
+Law Student,Law
+Law Student,Law
+Police Support Specialist,Law
+"Captain, Air National Guard",Other
+Aspiring Dolphin Trainer,Other
+Chicken Enthusiast,Other
+Cinderella,Other
+Dog Lover,Other
+Dog Rescuer,Other
+Dolphin trainer,Other
+Free Spirit,Other
+Homemaker,Other
+Queen,Other
+Sloth,Other
+Unemployed,Other
+War Veteran,Other
+Real Estate Advisor,Sales and Real Estate
+Real Estate Agent,Sales and Real Estate
+Real Estate Agent,Sales and Real Estate
+Real Estate Agent,Sales and Real Estate
+Real Estate Agent,Sales and Real Estate
+Real Estate Agent,Sales and Real Estate
+Real Estate Broker,Sales and Real Estate
+Real Estate Dealer,Sales and Real Estate
+Real Estate Developer,Sales and Real Estate
+Real Estate Executive Assistant,Sales and Real Estate
+Real estate marketing rep.,Sales and Real Estate
+Real estate sales/development,Sales and Real Estate
+Realtor,Sales and Real Estate
+Realtor,Sales and Real Estate
+Realtor,Sales and Real Estate
+Realtor,Sales and Real Estate
+Realtor,Sales and Real Estate
+Realtor,Sales and Real Estate
+Realtor,Sales and Real Estate
+Realtor,Sales and Real Estate
+Realtor,Sales and Real Estate
+Realtor,Sales and Real Estate
+Realtor,Sales and Real Estate
+Account Executive,Sales and Real Estate
+Account Executive,Sales and Real Estate
+Account Executive,Sales and Real Estate
+Account Executive,Sales and Real Estate
+Account Executive,Sales and Real Estate
+Account manager,Sales and Real Estate
+Account Manager,Sales and Real Estate
+Account Manager,Sales and Real Estate
+Account Manager,Sales and Real Estate
+Account Manager,Sales and Real Estate
+Account Manager,Sales and Real Estate
+Account representative,Sales and Real Estate
+Apparel Sales Representative,Sales and Real Estate
+Boutique sales worker,Sales and Real Estate
+Cadaver Tissue Saleswoman,Sales and Real Estate
+Entertainment Sales Associate,Sales and Real Estate
+Fashion Sales Representative,Sales and Real Estate
+Industrial Sales Representative,Sales and Real Estate
+Marketing Associate,Sales and Real Estate
+Marketing Coordinator,Sales and Real Estate
+Marketing Coordinator,Sales and Real Estate
+Marketing Coordinator,Sales and Real Estate
+Marketing Director,Sales and Real Estate
+Marketing Executive,Sales and Real Estate
+Marketing Executive,Sales and Real Estate
+Marketing manager,Sales and Real Estate
+Marketing Manager,Sales and Real Estate
+Marketing Manager,Sales and Real Estate
+Marketing Manager,Sales and Real Estate
+Marketing Manager,Sales and Real Estate
+Marketing Manager,Sales and Real Estate
+Marketing Manager,Sales and Real Estate
+Marketing Representative,Sales and Real Estate
+Marketing Salesperson,Sales and Real Estate
+Marketing Specialist,Sales and Real Estate
+Medical equipment sales rep,Sales and Real Estate
+Medical Marketing Representative,Sales and Real Estate
+Medical Sales Rep,Sales and Real Estate
+Medical Sales Rep,Sales and Real Estate
+Medical sales representative,Sales and Real Estate
+Medical Sales Representative,Sales and Real Estate
+Medical Sales Representative,Sales and Real Estate
+Medical Sales Representative,Sales and Real Estate
+Medical Sales Representative,Sales and Real Estate
+Menswear Buyer,Sales and Real Estate
+Oil Field Account Manager,Sales and Real Estate
+Pharmaceutical sales rep.,Sales and Real Estate
+Pharmaceutical Sales Representative,Sales and Real Estate
+Pharmaceutical Salesperson,Sales and Real Estate
+Power Tool Sales Rep.,Sales and Real Estate
+Radio sales,Sales and Real Estate
+Radio Sales,Sales and Real Estate
+Sales Account Manager,Sales and Real Estate
+Sales Consultant,Sales and Real Estate
+Sales Director,Sales and Real Estate
+Sales Manager,Sales and Real Estate
+Sales Manager,Sales and Real Estate
+Sales Manager,Sales and Real Estate
+Sales Representative,Sales and Real Estate
+Senior Account Executive,Sales and Real Estate
+Software Sales Representative,Sales and Real Estate
+Technology Salesperson,Sales and Real Estate
+Advertising Account Manager,Sales and Real Estate
+Advertising Account Manager,Sales and Real Estate
+Advertising Account Manager,Sales and Real Estate
+Advertising coordinator,Sales and Real Estate
+Advertising Executive,Sales and Real Estate
+Advertising Executive,Sales and Real Estate
+Apparel Merchant,Sales and Real Estate
+Assistant buyer,Sales and Real Estate
+Broadcast marketer,Sales and Real Estate
+Business Development Associate,Sales and Real Estate
+Business Development Director,Sales and Real Estate
+Business Development Manager,Sales and Real Estate
+Business Development Rep,Sales and Real Estate
+Casino Marketing Representative,Sales and Real Estate
+Church marketing rep.,Sales and Real Estate
+Client Relations Manager,Sales and Real Estate
+Commercial Real Estate Agent,Sales and Real Estate
+Commercial Real Estate Agent,Sales and Real Estate
+Communications Director,Sales and Real Estate
+Communications Manager,Sales and Real Estate
+Communications Specialist,Sales and Real Estate
+Consultant,Sales and Real Estate
+Cosmetic Sales Manager,Sales and Real Estate
+Department Store Buyer,Sales and Real Estate
+Digital Marketing Manager,Sales and Real Estate
+Insurance Agent,Sales and Real Estate
+Insurance Marketer,Sales and Real Estate
+Insurance Representative,Sales and Real Estate
+Internet marketing executive,Sales and Real Estate
+Leasing Consultant,Sales and Real Estate
+Media Buyer,Sales and Real Estate
+Public Relations Associate,Sales and Real Estate
+Retail Marketing Manager,Sales and Real Estate
+Cosmetics Consultant,Service
+Cosmetics Developer,Service
+Cosmetologist,Service
+Bar Manager,Service
+Bar manager,Service
+Boutique manager,Service
+Children's Hospital Event Planner,Service
+Event Coordinator,Service
+Event Designer,Service
+Event Planner,Service
+Event planner,Service
+Event planner,Service
+Event planner,Service
+Event Planner,Service
+Event Planner,Service
+Bartender,Service
+Bartender,Service
+Bartender,Service
+Bartender,Service
+Bartender,Service
+Bridal Stylist,Service
+Caterer,Service
+Chef,Service
+Cocktail waitress,Service
+Esthetician,Service
+Esthetician,Service
+Esthetician,Service
+Esthetician,Service
+Esthetician,Service
+Hair Stylist,Service
+Hair Stylist,Service
+Hair Stylist,Service
+Hairstylist,Service
+Hairstylist,Service
+Hairstylist,Service
+Hairstylist,Service
+Hooters Waitress,Service
+Hospitality Manager,Service
+Hostess,Service
+Hotel concierge,Service
+Legal Assistant,Service
+Makeup Artist,Service
+Make-up artist,Service
+Make-up artist,Service
+Make-Up Artist,Service
+Manscaper,Service
+Marriage Therapy Trainee,Service
+Massage Therapist,Service
+Massage Therapist,Service
+Model/Make-Up Artist,Service
+Nanny,Service
+Nanny,Service
+Nanny,Service
+Nanny,Service
+Nanny,Service
+Nanny,Service
+Nanny,Service
+Nanny,Service
+Nanny,Service
+Nanny,Service
+Paralegal,Service
+Paralegal,Service
+Personal Organizer,Service
+Personal Stylist,Service
+Phlebotomist,Service
+Poker Dealer,Service
+Professional Clothier,Service
+Professional Makeup Artist,Service
+Restaurant Manager,Service
+Restaurant Marketer,Service
+Restaurant Owner,Service
+Restaurant Server,Service
+Restaurateur,Service
+Salon Owner,Service
+Server,Service
+Stylist,Service
+Vendor,Service
+VIP Cocktail Waitress,Service
+Waitress,Service
+Waitress,Service
+Waitress,Service
+Waitress,Service
+Waitress,Service
+Waitress,Service
+Wardrobe Consultant,Service
+Wardrobe Stylist,Service
+Wedding Cake Baker,Service
+Wedding Coordinator,Service
+Wedding Videographer,Service
+Wedding Videographer,Service
+Architectural Historian,Student
+Biology student,Student
+College Student,Student
+College Student,Student
+Dental Student,Student
+Graduate Student,Student
+Graduate Student,Student
+Graduate student,Student
+Graduate student,Student
+Graduate Student,Student
+Graduate Student,Student
+PhD Student,Student
+Recent Master's Graduate,Student
+Sorority recruiter,Student
+Student,Student
+Student,Student
+Student,Student
+Student,Student
+Student,Student
+Student,Student
+Student,Student
